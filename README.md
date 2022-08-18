@@ -1,6 +1,6 @@
 # almost-perfect-crimes
 
-A single blog post on a fictitious blog called "Novely."
+A single blog post on "Novely," a fictitious blog.
 
 [https://novely-blog.netlify.app/](https://novely-blog.netlify.app/)
 
